@@ -1,0 +1,23 @@
+# Core LlamaIndex
+llama-index>=0.11.0
+llama-index-core>=0.11.0
+
+# LLM & Embeddings
+llama-index-llms-cohere>=0.3.0
+llama-index-embeddings-cohere>=0.2.0
+cohere>=5.11.0
+
+# Vector Store
+llama-index-vector-stores-pinecone>=0.2.0
+pinecone-client>=5.0.0
+
+# UI
+gradio>=4.44.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.9.0
+pymongo>=4.10.0
+
+# File handling
+markdown>=3.7
